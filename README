@@ -1,0 +1,28 @@
+Distributed ssh
+
+###############
+# README
+###############
+Created on 2013-02-24
+This is a simple distributed ssh command runner which supports running ssh command in remote hosts.
+You can write hosts connection information(which contains ip, username, password) into a plain text file.
+I've used this script for years. It is simple and easy to use.
+
+###############
+# installation
+###############
+
+
+###############
+# usage
+###############
+
+
+###############
+# known bugs
+###############
+
+
+###############
+# version
+###############
