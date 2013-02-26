@@ -138,6 +138,7 @@ if __name__ == '__main__':
                     print "%s@%s:%s" % (username, hostname, port)
                     host = remote_host(hostname=hostname, port=port, username=username, password=password)
                     host.run_ssh(command)
+                    host.close()
                 else:
                     continue
 
