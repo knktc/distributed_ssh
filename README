@@ -8,6 +8,8 @@ This is a simple distributed ssh command runner which supports running ssh comma
 You can write hosts connection information(which contains ip, username, password) into a plain text file.
 I've used this script for years. It is simple and easy to use.
 
+Remember, It is Insecurity!
+
 ###############
 # installation
 ###############
